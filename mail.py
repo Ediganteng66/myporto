@@ -4,6 +4,7 @@ from email.message import EmailMessage
 #pesan = input("masukan pesan anda :")
 #
 #
+print("Kon")
 
 #
 #
